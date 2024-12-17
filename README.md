@@ -7,6 +7,10 @@
 
 # 💻 Tech Stack:
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+### 🛠️ Tools & IDE:
+![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=flat&logo=github)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nathscen&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nathscen&theme=react&hide_border=true)<br/>
