@@ -1,3 +1,5 @@
+![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
 # 💫 About Me:
 👀 I’m interested in Frontend Developer<br>🌱 I’m currently learning Next JS<br>📫 How to reach me anothernathans@gmail.com<br>😄 Pronouns: He/Him
 
