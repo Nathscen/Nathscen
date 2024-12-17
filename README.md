@@ -1,4 +1,4 @@
-![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" height="200" alt="Coding GIF">
 
 # 💫 About Me:
 👀 I’m interested in Frontend Developer<br>🌱 I’m currently learning Next JS<br>📫 How to reach me anothernathans@gmail.com<br>😄 Pronouns: He/Him
