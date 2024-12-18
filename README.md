@@ -1,4 +1,4 @@
-![Blue Lock King Barou](https://media.tenor.com/976728224320407155.gif)
+<img src="https://media.tenor.com/976728224320407155.gif" width="400" height="300" alt="Blue Lock King Barou">
 
 # 💫 About Me:
 👀 I’m interested in Frontend Developer<br>🌱 I’m currently learning Next JS and Laravel<br>📫 How to reach me anothernathans@gmail.com<br>😄 Pronouns: He/Him
