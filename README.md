@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/blue-lock-king-barou-barou-shoei-gif-976728224320407155" width="400" height="200" alt="Coding GIF">
+<img src="[https://tenor.com/view/blue-lock-king-barou-barou-shoei-gif-976728224320407155](https://tenor.com/view/blue-lock-king-barou-barou-shoei-gif-976728224320407155)" width="400" height="200" alt="Coding GIF">
 
 # 💫 About Me:
 👀 I’m interested in Frontend Developer<br>🌱 I’m currently learning Next JS and Laravel<br>📫 How to reach me anothernathans@gmail.com<br>😄 Pronouns: He/Him
