@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/RSPAUsEy1azRu/giphy.gif" width="100%" height="250" alt="Kuroko no Basket GIF">
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/RSPAUsEy1azRu/giphy.gif" width="400" alt="Kuroko no Basket GIF">
+</div>
 
 # 💫 About Me:
 👀 I’m interested in Frontend Developer<br>🌱 I’m currently learning Next JS and Laravel<br>📫 How to reach me anothernathans@gmail.com<br>😄 Pronouns: He/Him
