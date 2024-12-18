@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/976728224320407155.gif" width="400" height="300" alt="Blue Lock King Barou">
+<img src="https://media.giphy.com/media/RSPAUsEy1azRu/giphy.gif" width="400" height="250" alt="Kuroko no Basket GIF">
 
 # 💫 About Me:
 👀 I’m interested in Frontend Developer<br>🌱 I’m currently learning Next JS and Laravel<br>📫 How to reach me anothernathans@gmail.com<br>😄 Pronouns: He/Him
