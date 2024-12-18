@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/naiatn5LxTOsU" width="400" height="200" alt="Coding GIF">
+<img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="400" height="400" alt="Hero GIF">
 
 # 💫 About Me:
 👀 I’m interested in Frontend Developer<br>🌱 I’m currently learning Next JS and Laravel<br>📫 How to reach me anothernathans@gmail.com<br>😄 Pronouns: He/Him
